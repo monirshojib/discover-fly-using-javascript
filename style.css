@@ -120,3 +120,17 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+
+
+#show-part{
+    display: none;
+    padding: 200px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 20px;
+    margin: 50px auto;
+}
+
+#show-part p{
+    font-weight: 500;
+    padding: 10px;
+}
